@@ -1,0 +1,56 @@
+{
+    "conditions": [
+      {
+        "name": "Thyroid",
+        "imagesrc":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs3.ap-south-1.amazonaws.com%2Fwww.nhassurance.com%2Fimg%2Fnew%2Ficons%2Fdisease_management%2Fthyroid_symptoms.png&f=1&nofb=1&ipt=0d98de42dffe8cde8433eec84d9df39418e3ec1ea3c9deadc69d909b10396841&ipo=images",
+        "symptoms": [
+          "Fatigue",
+          "Weight gain or loss",
+          "Dry skin",
+          "Muscle weakness",
+          "Irregular menstrual periods"
+        ],
+        "prevention": [
+          "Eat a balanced diet",
+          "Exercise regularly",
+          "Get regular check-ups"
+        ],
+        "treatment": "Medication like levothyroxine may be prescribed by a doctor."
+      },
+      {
+        "name": "Diabetes",
+        "imagesrc":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.verywellhealth.com%2Fthmb%2Fplojm19fjKQt7OL5zc02op5s53w%3D%2F3000x2000%2Ffilters%3Ano_upscale()%3Amax_bytes(150000)%3Astrip_icc()%2Fdiabetes-signs-and-symptoms-5104883_Final-2f62c1beeb864b4b891c5f0c6c1d9419.jpg&f=1&nofb=1&ipt=da667716e3199757aec6ddb3ca25851e80d3d465dbb9e32995f247b2376fc125&ipo=images",
+        "symptoms": [
+          "Frequent urination",
+          "Increased thirst",
+          "Blurry vision",
+          "Fatigue",
+          "Slow healing of cuts or sores"
+        ],
+        "prevention": [
+          "Maintain a healthy weight",
+          "Follow a balanced diet",
+          "Regular exercise"
+        ],
+        "treatment": "Management includes medication, insulin therapy, and lifestyle changes."
+      },
+      {
+        "name": "High Blood Pressure",
+        "imagesrc":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fas1.ftcdn.net%2Fv2%2Fjpg%2F03%2F11%2F68%2F20%2F1000_F_311682043_0P3utXTkG1VEvfKhuindEapJpNp9OzAE.jpg&f=1&nofb=1&ipt=a3dd840650a51f6f32b4a08faec49baabd17c33fc8860c2a04bc286040f7dc6d&ipo=images",
+        "symptoms": [
+          "Headaches",
+          "Shortness of breath",
+          "Chest pain",
+          "Dizziness",
+          "Blurred or double vision"
+        ],
+        "prevention": [
+          "Reduce salt intake",
+          "Exercise regularly",
+          "Maintain a healthy weight"
+        ],
+        "treatment": "Medications like ACE inhibitors or diuretics may be prescribed."
+      }
+    ]
+  }
+  
